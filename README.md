@@ -28,8 +28,13 @@ Here is a checklist i want to make:
 ```
 BeginnerCodeFolder/
 │
-├── Calulator/
-│   └── Calculator.py
+├── Tools/
+│   ├── Calculator/
+│   │   └── Calculator.py
+│   ├── TemperatureConverter/
+│   │   └── temperatureConverter.py
+│   └── WeightConverter/
+│       └── Weightconverter.py
 │
 ├── Games/
 │   ├── OW/
