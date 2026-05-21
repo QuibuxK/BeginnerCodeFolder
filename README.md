@@ -39,6 +39,6 @@ BeginnerCodeFolder/
 
 ```
 
-Each folder = **one game**. Keep your game self-contained.
+Each folder = **one project**. Keep your game self-contained.
 
 ---
